@@ -1,4 +1,3 @@
-
 # GroupDNA - WhatsApp Chat Analyzer
 
 ## Project Description
@@ -112,3 +111,13 @@ https://colab.research.google.com/drive/1eWm9I34O51tlcO6UkDVW6Y3VqYM6f_I6?usp=sh
 ## Author
 
 **Suhasini Mallick**
+
+
+## Sample output
+
+<img width="502" height="220" alt="Screenshot 2026-06-29 135404" src="https://github.com/user-attachments/assets/91c5eb64-75fc-47f6-9923-a2138124f630" />
+<img width="459" height="228" alt="Screenshot 2026-06-29 135354" src="https://github.com/user-attachments/assets/809c69c7-e1b7-4156-9c33-20b96bc326f2" />
+<img width="258" height="221" alt="Screenshot 2026-06-29 133546" src="https://github.com/user-attachments/assets/4ac829b4-2fe1-4ef7-b59a-d6abfd058232" />
+<img width="291" height="155" alt="Screenshot 2026-06-29 133528" src="https://github.com/user-attachments/assets/e6377f39-c46b-40d0-90bb-ea9884998cc2" />
+
+
