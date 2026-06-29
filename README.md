@@ -100,6 +100,11 @@ The notebook generates a report containing:
 - Longest Silent Streaks
 - Personality Archetypes
 - Conversation Starter Detection
+
+
+# NoteBook Link 
+https://colab.research.google.com/drive/1eWm9I34O51tlcO6UkDVW6Y3VqYM6f_I6?usp=sharing
+
 - Final GroupDNA Report
 
 ---
